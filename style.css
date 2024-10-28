@@ -57,9 +57,10 @@ p {
   inline-size: auto;
   font-size: 30px;
   margin: 0;
+  color: #B17457;
 }
 
 ul {
-    list-style-position: inside;
+  list-style-position: inside;
   padding-left: 0;
 }
